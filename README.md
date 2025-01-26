@@ -1,4 +1,5 @@
 Timer Bomb Project
+
 This is a fun web-based project that simulates a countdown timer that you can "defuse" by entering a special code. The project demonstrates the use of HTML, CSS, and JavaScript to create an interactive user experience.
 
 Features
